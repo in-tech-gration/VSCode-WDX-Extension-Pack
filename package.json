@@ -2,7 +2,7 @@
   "name": "vscode-wdx-extension-pack",
   "displayName": "VSCode-WDX-Extension-Pack",
   "description": "VSCode Extension Pack accompanying WDX 180° Curriculum",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "icon": "icon.png",
   "publisher": "kostasx",
   "repository": {
