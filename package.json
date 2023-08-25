@@ -20,6 +20,9 @@
   ],
   "extensionPack": [ 
     "usernamehw.errorlens",
-    "ritwickdey.LiveServer"
+    "ritwickdey.LiveServer",
+    "streetsidesoftware.code-spell-checker",
+    "MS-vsliveshare.vsliveshare",
+    "Gruntfuggly.todo-tree"
   ]
 }
