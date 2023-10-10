@@ -38,6 +38,7 @@
     ```
 
 - Make sure to update the [CHANGELOG](CHANGELOG.md)
+- Update the [README.md](README.md) file, and specifically the `Included Extensions` section.
 
 ---
 
