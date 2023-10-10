@@ -25,6 +25,10 @@
 
 **How to contribute:**
 
+- Create a branch and make a PR.
+
+- Extensions can be found inside the `package.json` file, under the `extensionPack` section.
+
 - Make sure to update the version in `package.json`: 
 
     ```json
