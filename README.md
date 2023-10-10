@@ -4,6 +4,8 @@
 
 <img src="icon.png" width=240 />
 
+**Install:** Visit [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=kostasx.vscode-wdx-extension-pack)
+
 ---
 
 **Included Extensions:**
