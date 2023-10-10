@@ -23,6 +23,16 @@
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Code formatter using prettier
 
 
+**How to contribute:**
+
+- Make sure to update the version in `package.json`: 
+
+    ```json
+    "version": "0.1.3"
+    ```
+
+- Make sure to update the [CHANGELOG](CHANGELOG.md)
+
 ---
 
 **Contributions:**
