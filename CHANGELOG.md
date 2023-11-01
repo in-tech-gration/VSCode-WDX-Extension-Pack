@@ -2,6 +2,12 @@
 
 All notable changes to the "vscode-wdx-extension-pack" extension pack will be documented in this file.
 
+## [0.1.5] - 01/11/2023
+
+### Added
+
+- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) Extension.
+
 ## [0.1.4] - 10/10/2023
 
 ### Added

@@ -19,6 +19,7 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
+    "ms-vscode.live-server",
     "usernamehw.errorlens",
     "ritwickdey.LiveServer",
     "streetsidesoftware.code-spell-checker",
