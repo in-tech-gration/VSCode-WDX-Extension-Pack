@@ -2,6 +2,13 @@
 
 All notable changes to the "vscode-wdx-extension-pack" extension pack will be documented in this file.
 
+## [0.1.6] - 01/12/2023
+
+### Added Suggested Extensions
+
+- [Quokka.js Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
 ## [0.1.5] - 01/11/2023
 
 ### Added
