@@ -2,6 +2,12 @@
 
 All notable changes to the "vscode-wdx-extension-pack" extension pack will be documented in this file.
 
+## [0.1.7] - 10/10/2025
+
+### Added Suggested Extensions
+
+- [HTMLHint](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint)
+
 ## [0.1.6] - 01/12/2023
 
 ### Added Suggested Extensions

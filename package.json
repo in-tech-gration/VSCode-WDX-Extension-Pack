@@ -2,7 +2,7 @@
   "name": "vscode-wdx-extension-pack",
   "displayName": "VSCode-WDX-Extension-Pack",
   "description": "VSCode Extension Pack accompanying WDX 180° Curriculum",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "icon": "icon.png",
   "publisher": "kostasx",
   "galleryBanner": {
@@ -19,13 +19,14 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
+    "GrapeCity.gc-excelviewer",
+    "Gruntfuggly.todo-tree",
+    "HTMLHint.vscode-htmlhint",
+    "mechatroner.rainbow-csv",
     "ms-vscode.live-server",
-    "usernamehw.errorlens",
+    "MS-vsliveshare.vsliveshare",
     "ritwickdey.LiveServer",
     "streetsidesoftware.code-spell-checker",
-    "MS-vsliveshare.vsliveshare",
-    "Gruntfuggly.todo-tree",
-    "GrapeCity.gc-excelviewer",
-    "mechatroner.rainbow-csv"
+    "usernamehw.errorlens"
   ]
 }
